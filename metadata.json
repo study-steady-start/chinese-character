@@ -1,0 +1,6 @@
+{
+  "name": "한자능력검정시험 1급 마스터",
+  "description": "한국어문회 한자능력검정시험 1급 대비를 위한 전문 학습 플랫폼. 3,500 배정한자 사전, 고난도 사자성어, 실전 모의고사, 한자 쓰기 캔버스 및 AI 한자 훈장님 질의응답 지원.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
